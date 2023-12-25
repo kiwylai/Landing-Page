@@ -45,16 +45,19 @@
     justify-content: space-between;
     padding: 60px 150px;
     align-items: center;
+    
 }
 
 .left {
     width: 360px;
+    margin: o;
 }
 
 .hero {
     font-size: 48px;
     font-weight: extra bold;
     color: #f9faf8;
+    margin: 0;
 }
 
 button {
