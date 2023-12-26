@@ -72,6 +72,8 @@
 #forest {
     width: 500px;
     height: auto;
+    border: none;
+    border-radius: 0;
 }
 
 .section-two {
